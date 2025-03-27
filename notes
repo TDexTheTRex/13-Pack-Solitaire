@@ -1,7 +1,7 @@
 Ideas
 -theme change buttons along top edge
     -boss/stealthmode button
-    -add new skins as additional tabs
+    -add new themes as additional tabs
     -change fonts
     -THEMES reference tab
         -font lookup tables
@@ -17,7 +17,7 @@ Ideas
     -identify what isnt used and get rid of it
     -edit vba so that all cell references still line up
 -clean up Selections just like Tables
--analytics
+-analytics/stats
     -running totals
     -at a glance suit count, rank count
     -reset button
