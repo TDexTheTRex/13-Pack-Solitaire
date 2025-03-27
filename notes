@@ -1,0 +1,23 @@
+Ideas
+-theme change buttons along top edge
+    -boss/stealthmode button
+    -add new skins as additional tabs
+    -change fonts
+    -THEMES reference tab
+        -font lookup tables
+            -card names being spelled out (King not K)
+-difficulties
+    -different dealing styles for more or less cards in stockpile
+    -modify movement rules to allow/disallow different types of movement
+        -working set arrangement rules
+        -working set access rules
+-figure out how to conditional format thicker boorders
+    -figure out if I can conditional format thicker borders
+-clean up Tables
+    -identify what isnt used and get rid of it
+    -edit vba so that all cell references still line up
+-clean up Selections just like Tables
+-analytics
+    -running totals
+    -at a glance suit count, rank count
+    -reset button
